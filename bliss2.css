@@ -1,4 +1,4 @@
-/* Bliss 2.0.0, Created by Progwi0. */
+/* Bliss 2.0.1, Created by Progwi0. */
 
 /* Font */
 
@@ -232,6 +232,7 @@ body{
   	align-items: center;
  	justify-content: center;
  	flex-direction: column;
+ 	margin: 0;
 }
 
 alargebodyofwatersurroundedbymountains
